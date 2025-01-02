@@ -11,3 +11,4 @@ function validateLogin() {
 
 function validateRegister() {
     var username = document.getElementBy
+}
